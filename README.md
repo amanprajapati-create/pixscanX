@@ -1,0 +1,2 @@
+# pixscanX
+privacy policy page
